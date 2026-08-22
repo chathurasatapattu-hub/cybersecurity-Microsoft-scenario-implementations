@@ -1,4 +1,4 @@
-# cybersecurity-Microsoft-scenario-implementations
+# Cybersecurity-Microsoft-Scenario-Implementations
 Scenario-based Microsoft identity and endpoint security implementations completed in authorized SC-900 and SC-200 labs.
 
 # 1. Scenario Title: New Employee Onboarding with Microsoft Entra ID
